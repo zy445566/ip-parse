@@ -1,0 +1,27 @@
+{
+  "name": "ip-parse",
+  "version": "1.0.0",
+  "description": "convert ip into an array,support ipv4 and ipv6.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zy445566/ip-parse.git"
+  },
+  "keywords": [
+    "ip",
+    "ipv4",
+    "ipv6",
+    "parse",
+    "convert",
+    "array"
+  ],
+  "author": "zy445566",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zy445566/ip-parse/issues"
+  },
+  "homepage": "https://github.com/zy445566/ip-parse#readme"
+}
