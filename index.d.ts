@@ -4,4 +4,5 @@ declare class IpParse {
     isIpv6(ip:string):boolean;
     parseIp(ip:string):Array<string>;
 }
-export default new IpParse()
+
+export default IpParse;
