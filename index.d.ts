@@ -7,5 +7,5 @@ declare class IpParse {
 
     parseIp(ip:string):Array<string>;
 }
-declare const ipParse:new () => IpParse
+declare const ipParse:IpParse;
 export default ipParse;
