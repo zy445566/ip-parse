@@ -1,6 +1,6 @@
 {
   "name": "ip-parse",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "convert ip into an array,support ipv4 and ipv6.",
   "main": "index.js",
   "scripts": {
